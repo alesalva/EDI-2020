@@ -2,3 +2,5 @@
 Práctica: este es el archivo readme
 
 Agrego esta línea del archivo readme desde mi repositorio local
+
+Agrego renglón desde el repositorio remoto
