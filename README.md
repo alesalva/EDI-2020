@@ -1,2 +1,2 @@
 # EDI-2020
-Práctica 
+Práctica: este es el archivo readme
